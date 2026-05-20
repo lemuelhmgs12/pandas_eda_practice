@@ -48,5 +48,18 @@ uv run python your_script.py
 └── README.md
 ```
 
+---
+
+## Libraries Used
+
+| Library | Purpose |
+|--------|---------|
+| pandas | Data manipulation and analysis |
+| matplotlib / seaborn | Visualization |
+| jupyter | Interactive notebooks |
+
+
+
+---
 
 
