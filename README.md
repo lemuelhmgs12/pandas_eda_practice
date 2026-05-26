@@ -41,7 +41,8 @@ uv run python your_script.py
 ## Project Structure
 
 ```
-├── data/               # Raw and cleaned datasets
+├── data/raw            # Raw datasets
+├── data/processed      # Cleaned datasets
 ├── notebooks/          # Jupyter notebooks for EDA
 ├── src/                # Reusable Python scripts (if any)
 ├── pyproject.toml      # Dependencies managed by uv
@@ -58,8 +59,4 @@ uv run python your_script.py
 | matplotlib / seaborn | Visualization |
 | jupyter | Interactive notebooks |
 
-
-
 ---
-
-
